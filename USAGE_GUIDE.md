@@ -26,7 +26,7 @@ This guide provides detailed instructions on how to use the Multi-Agent Startup 
 
 1. **Clone or download the repository**:
    ```
-   git clone https://github.com/your-username/msva.git
+   git clone https://github.com/JbellMD/msva.git
    cd msva
    ```
 
