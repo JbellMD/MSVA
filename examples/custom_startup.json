@@ -1,0 +1,10 @@
+{
+  "name": "EcoDelivery",
+  "description": "A sustainable last-mile delivery service using electric cargo bikes and AI route optimization to reduce carbon emissions while providing faster deliveries in congested urban areas.",
+  "target_audience": "Urban businesses (restaurants, retail, pharmacies) needing reliable same-day deliveries, and environmentally conscious consumers",
+  "industry": "Logistics / Sustainability",
+  "problem_statement": "Last-mile delivery in cities creates pollution, is expensive, and often delayed by traffic congestion",
+  "solution": "Fleet of electric cargo bikes with AI route optimization and real-time tracking",
+  "revenue_model": "Per-delivery fee + monthly subscription options for businesses",
+  "initial_thoughts": "We need to validate if the delivery speed and cost can truly compete with existing services while maintaining the eco-friendly approach"
+}
